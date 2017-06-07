@@ -10,10 +10,4 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-
-    private void TestUpload(){
-        int i = 5;
-        int ii = i + 2;
-        int iii = ii  + 3;
-    }
 }
