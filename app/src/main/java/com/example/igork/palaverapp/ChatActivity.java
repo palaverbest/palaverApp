@@ -3,7 +3,7 @@ package com.example.igork.palaverapp;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Chats extends AppCompatActivity {
+public class ChatActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

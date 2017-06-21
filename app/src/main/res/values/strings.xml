@@ -5,12 +5,20 @@
 
     <!-- Strings related to login -->
     <string name="link_registration"><u>Jetzt registrieren</u></string>
-    <string name="prompt_nickname">Nickname</string>
-    <string name="prompt_password">Password</string>
+    <string name="login_nickname">Nickname</string>
+    <string name="login_password">Password</string>
     <string name="action_sign_in">Login</string>
     <string name="action_sign_in_short">Login</string>
     <string name="error_invalid_nickname">Nickname ist ungültig</string>
     <string name="error_invalid_password">Das Passwort ist zu kurz</string>
     <string name="error_incorrect_password">Das Passwort ist falsch</string>
     <string name="error_field_required">Pflichtfeld</string>
+    <string name="login_activity_name">Anmeldung</string>
+
+    <!-- String related to registration -->
+    <string name="reg_activity_name">Registrierung</string>
+    <string name="reg_nickname">Nickname</string>
+    <string name="reg_password1">Passwort</string>
+    <string name="reg_password2">Passwort wiederholen</string>
+    <string name="reg_button">Registrieren</string>
 </resources>
